@@ -1,6 +1,9 @@
 ---
 layout: default
 ---
+1. fish
+2. chips
+
 
 {% include 01-name.md %}
 
@@ -12,3 +15,10 @@ layout: default
 
 {% include 03-links.md %}
 
+<br>
+
+{% include 04-lists.md %}
+
+<br>
+
+{% include 05-emphasis.md %}
